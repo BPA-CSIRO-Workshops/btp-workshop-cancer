@@ -23,3 +23,6 @@
 [submodule "094_somatic"]
 	path = 094_somatic
 	url = https://github.com/BPA-CSIRO-Workshops/cancer-module-somatic.git
+[submodule "092_visualization"]
+	path = 092_visualization
+	url = https://github.com/BPA-CSIRO-Workshops/cancer-module-viz.git
