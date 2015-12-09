@@ -13,13 +13,13 @@
 #new sub-modules
 [submodule "080_cnv"]
 	path = 080_cnv
-	url = https://github.com/tsonika/cancer_cnv.git
+	url = https://github.com/BPA-CSIRO-Workshops/cancer-module-cnv.git
 [submodule "090_sv"]
 	path = 090_sv
-	url = https://github.com/tsonika/cancer_sv.git
+	url = https://github.com/BPA-CSIRO-Workshops/cancer-module-sv.git
 [submodule "070_snv"]
 	path = 070_snv
-	url = https://github.com/tsonika/cancer_variant_calls.git
+	url = https://github.com/BPA-CSIRO-Workshops/cancer-module-snv.git
 [submodule "094_somatic"]
 	path = 094_somatic
-	url = https://github.com/tsonika/cancer_somatic_analysis.git
+	url = https://github.com/BPA-CSIRO-Workshops/cancer-module-somatic.git
