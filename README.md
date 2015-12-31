@@ -1,56 +1,24 @@
-[![Build Status](https://travis-ci.org/BPA-CSIRO-Workshops/btp-workshop-ngs.png?branch=master)](https://travis-ci.org/BPA-CSIRO-Workshops/btp-workshop-ngs)
+# btp-workshop-cancer
+Bioinformatics Training Platform (BTP) Workshop: Cancer Genomics
 
-Table of Contents
-=================
-<!-- toc -->
-* [Homepage and PDFs](#homepage-and-pdfs)
-* [Purpose](#purpose)
-* [Building PDFs from LaTeX Source](#building-pdfs-from-latex-source)
-* [Credits](#credits)
-* [License](#license)
-
-<!-- toc stop -->
-Homepage and PDFs
-=================
-You can access the homepage, and up-to-date PDFs, for this project at
-https://github.com/tsonika/cancer-genomics-2015
-
-Purpose
-=======
-This repository contains style information for use with LaTeX to generate
-consistently styled handout documents for use in hands-on bioinformatics
-training workshops.
-
-You can find full details of what this repository is all about how to use it at:
-https://github.com/tsonika/cancer-genomics-2015
-
-Building PDFs from LaTeX Source
-===============================
-First you need to install texlive and a bunch of LaTeX packages. To make this
-easy we have provided a script to do this:
-```bash
-cd developers
-sudo ./texlive_install.sh
-cd ../
-```
-
-Secondly, you need to add the location of the texlive binary's to your PATH. If
-you installed texlive using the supplied script, the following should work:
-```bash
-export PATH=/usr/local/texlive/2013/bin/x86_64-linux:$PATH
-```
-
-Now you're ready to build the PDFs using the supplied Makefile:
-```bash
-make
-```
-
-Credits
-=======
-This style was originally designed for the Next Generation Sequencing (NGS)
-hands-on workshop developed by Bioplatforms Australia (BPA), CSIRO
-Bioinformatics Core and the EBI. It was written predominantly by Nathan S.
-Watson-Haigh.
+  * Topics
+    1. NGS Quality Control
+	2. Read Alignment with BWA
+    3. Single Nucleotide Variant Call and Annotation
+    4. Copy Number Variation
+    5. Structural Variant Analysis
+	6. Variants Visualization
+	7. Somatic Mutation Analysis
+  * Target Audience
+    * Biologists
+	* Non-bioinformaticians
+	* Little to no programming expereience
+  * Prerequisites
+    * None
+  * Time Required
+    * 
+  * Compute Requirements
+    * 
 
 License
 =======
