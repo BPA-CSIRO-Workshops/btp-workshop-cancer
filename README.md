@@ -16,9 +16,10 @@ Bioinformatics Training Platform (BTP) Workshop: Cancer Genomics
   * Prerequisites
     * None
   * Time Required
-    * 
+    * 3 days
   * Compute Requirements
-    * 
+    * Minimum: 4 CPUs, 16GB RAM, 30GB Storage
+    * Recommended: Anything > minimum
 
 License
 =======
