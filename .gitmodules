@@ -6,7 +6,7 @@
 	url = https://github.com/BPA-CSIRO-Workshops/btp-module-ngs-qc.git
 [submodule "060_alignment"]
 	path = 060_alignment
-	url = https://github.com/tsonika/bwa_alignment.git
+	url = https://github.com/BPA-CSIRO-Workshops/cancer-module-alignment.git
 [submodule "orchestration"]
 	path = orchestration
 	url = https://github.com/BPA-CSIRO-Workshops/btp-orchestration.git
