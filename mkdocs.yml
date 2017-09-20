@@ -56,15 +56,15 @@ pages:
 - Workshop Information: preamble.md
 
 - Hands-on Modules:
-    - Introduction to Command Line: modules/cancer-module-cli/commandline.md
-    - Quality Control: modules/cancer-module-qc/ngs-qc.md
-    - Read Alignment: modules/cancer-module-alignment/alignment.md
-    - Single Nucleotide Variant Calling and Annotation: modules/cancer-module-snv/snv.md
+    #- Introduction to Command Line: modules/cancer-module-cli/commandline.md
+    #- Quality Control: modules/cancer-module-qc/ngs-qc.md
+    #- Read Alignment: modules/cancer-module-alignment/alignment.md
+    #- Single Nucleotide Variant Calling and Annotation: modules/cancer-module-snv/snv.md
     - Copy Number Variation: modules/cnv/handout/handout.md
-    - Structural Variant Analysis: modules/cancer-module-sv/sv_tut.md
-    - Somatic Mutations:
-        - Assessing somatic mutational signatures: modules/cancer-module-somatic/01_signatures.md
-        - Cohort analysis for the identification of driver genes: modules/cancer-module-somatic/02_intogen.md
-    - Variant Visualisation: modules/cancer-module-viz/visu.md
+      #- Structural Variant Analysis: modules/cancer-module-sv/sv_tut.md
+      #- Somatic Mutations:
+      # - Assessing somatic mutational signatures: modules/cancer-module-somatic/01_signatures.md
+      #  - Cohort analysis for the identification of driver genes: modules/cancer-module-somatic/02_intogen.md
+      #- Variant Visualisation: modules/cancer-module-viz/visu.md
 
 - License: license.md
