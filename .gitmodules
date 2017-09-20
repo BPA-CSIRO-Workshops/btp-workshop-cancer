@@ -1,12 +1,6 @@
 [submodule "style"]
 	path = style
 	url = https://github.com/BPA-CSIRO-Workshops/btp-handout-style.git
-[submodule "050_ngs-qc"]
-	path = 050_ngs-qc
-	url = https://github.com/BPA-CSIRO-Workshops/btp-module-ngs-qc.git
-[submodule "060_alignment"]
-	path = 060_alignment
-	url = https://github.com/BPA-CSIRO-Workshops/cancer-module-alignment.git
 [submodule "orchestration"]
 	path = orchestration
 	url = https://github.com/BPA-CSIRO-Workshops/btp-orchestration.git
