@@ -10,22 +10,6 @@
 [submodule "orchestration"]
 	path = orchestration
 	url = https://github.com/BPA-CSIRO-Workshops/btp-orchestration.git
-#new sub-modules
-[submodule "080_cnv"]
-	path = 080_cnv
-	url = https://github.com/BPA-CSIRO-Workshops/cancer-module-cnv.git
-[submodule "090_sv"]
-	path = 090_sv
-	url = https://github.com/BPA-CSIRO-Workshops/cancer-module-sv.git
-[submodule "070_snv"]
-	path = 070_snv
-	url = https://github.com/BPA-CSIRO-Workshops/cancer-module-snv.git
-[submodule "094_somatic"]
-	path = 094_somatic
-	url = https://github.com/BPA-CSIRO-Workshops/cancer-module-somatic.git
-[submodule "092_visualization"]
-	path = 092_visualization
-	url = https://github.com/BPA-CSIRO-Workshops/cancer-module-viz.git
 [submodule "modules/snv"]
 	path = modules/snv
 	url = https://github.com/BPA-CSIRO-Workshops/cancer-module-snv.git
