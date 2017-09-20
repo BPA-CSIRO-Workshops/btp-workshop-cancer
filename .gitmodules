@@ -26,3 +26,18 @@
 [submodule "092_visualization"]
 	path = 092_visualization
 	url = https://github.com/BPA-CSIRO-Workshops/cancer-module-viz.git
+[submodule "modules/snv"]
+	path = modules/snv
+	url = https://github.com/BPA-CSIRO-Workshops/cancer-module-snv.git
+[submodule "modules/viz"]
+	path = modules/viz
+	url = https://github.com/BPA-CSIRO-Workshops/cancer-module-viz.git
+[submodule "modules/sv"]
+	path = modules/sv
+	url = https://github.com/BPA-CSIRO-Workshops/cancer-module-sv.git
+[submodule "modules/cnv"]
+	path = modules/cnv
+	url = https://github.com/BPA-CSIRO-Workshops/cancer-module-cnv.git
+[submodule "modules/qc"]
+	path = modules/qc
+	url = https://github.com/BPA-CSIRO-Workshops/btp-module-ngs-qc.git
