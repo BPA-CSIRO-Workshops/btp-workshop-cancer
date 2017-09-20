@@ -55,28 +55,12 @@ pages:
 - Timetable: timetables/timetable_cancer.md
 - Workshop Information: preamble.md
 
-# - All Modules:
-#    - Introduction to Command Line: modules/cancer-module-cli/commandline.md
-#    - Cancer QC: modules/cancer-module-qc/ngs-qc.md
-#     - Cancer Read Alignment: modules/cancer-module-alignment/alignment.md
-#     - Copy Number Variation: modules/cancer-module-cnv/cnv-tut.md
-#     - Single Nucleotide Variant Calling and Annotation: modules/cancer-module-snv/snv.md
-#     - Somatic Mutations:
-#         - Assessing somatic mutational signatures: modules/cancer-module-somatic/01_signatures.md
-#         - Cohort analysis for the identification of driver genes: modules/cancer-module-somatic/02_intogen.md
-#     - Structural Variant Analysis: modules/cancer-module-sv/sv_tut.md
-#     - Cancer Variant Visualisation: modules/cancer-module-viz/visu.md
-#     - Bacterial Assembly: modules/denovo-module-bac/bac_asm.md
-#     - DeNovo Introduction to Command Line: modules/denovo-module-cli/commandline.md
-#     - Eukaryote Assembly: modules/denovo-module-euk/eukaryotic_assem.md
-#     - Scaffolding: modules/denovo-module-scaffolding/scaffold.md
-
 - Hands-on Modules:
     - Introduction to Command Line: modules/cancer-module-cli/commandline.md
     - Quality Control: modules/cancer-module-qc/ngs-qc.md
     - Read Alignment: modules/cancer-module-alignment/alignment.md
     - Single Nucleotide Variant Calling and Annotation: modules/cancer-module-snv/snv.md
-    - Copy Number Variation: modules/cancer-module-cnv/cnv-tut.md
+    - Copy Number Variation: modules/cnv/handout/handout.md
     - Structural Variant Analysis: modules/cancer-module-sv/sv_tut.md
     - Somatic Mutations:
         - Assessing somatic mutational signatures: modules/cancer-module-somatic/01_signatures.md
