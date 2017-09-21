@@ -60,7 +60,7 @@ pages:
     #- Introduction to Command Line: modules/cancer-module-cli/commandline.md
     #- Quality Control: modules/cancer-module-qc/ngs-qc.md
     #- Read Alignment: modules/cancer-module-alignment/alignment.md
-    #- Single Nucleotide Variant Calling and Annotation: modules/cancer-module-snv/snv.md
+    - Single Nucleotide Variant Calling and Annotation: snv/handout/handout.md
     - Copy Number Variation: cnv/handout/handout.md
       #- Structural Variant Analysis: modules/cancer-module-sv/sv_tut.md
       #- Somatic Mutations:
