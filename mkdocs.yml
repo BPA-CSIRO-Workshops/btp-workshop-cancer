@@ -66,6 +66,6 @@ pages:
       #- Somatic Mutations:
       # - Assessing somatic mutational signatures: modules/cancer-module-somatic/01_signatures.md
       #  - Cohort analysis for the identification of driver genes: modules/cancer-module-somatic/02_intogen.md
-      #- Variant Visualisation: modules/cancer-module-viz/visu.md
+    - Variant Visualisation: viz/handout/handout.md
 
 - License: license.md
