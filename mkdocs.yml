@@ -59,7 +59,7 @@ pages:
 - Hands-on Modules:
     #- Introduction to Command Line: modules/cancer-module-cli/commandline.md
     - Quality Control: qc/handout/handout.md
-    #- Read Alignment: modules/cancer-module-alignment/alignment.md
+    - Read Alignment: alignment/handout/handout.md
     - Single Nucleotide Variant Calling and Annotation: snv/handout/handout.md
     - Copy Number Variation: cnv/handout/handout.md
     - Structural Variant Analysis: sv/handout/handout.md
