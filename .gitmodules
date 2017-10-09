@@ -22,3 +22,6 @@
 [submodule "modules/alignment"]
 	path = modules/alignment
 	url = https://github.com/BPA-CSIRO-Workshops/btp-module-ngs-mapping.git
+[submodule "modules/cli"]
+	path = modules/cli
+	url = https://github.com/BPA-CSIRO-Workshops/btp-module-ngs-cli.git
