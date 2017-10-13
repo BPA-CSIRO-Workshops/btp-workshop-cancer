@@ -72,6 +72,12 @@
     </url>
         
     <url>
+     <loc></loc>
+     <lastmod></lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
      <loc>/viz/handout/handout/</loc>
      <lastmod>2017-10-13</lastmod>
      <changefreq>daily</changefreq>
