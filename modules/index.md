@@ -1,6 +1,4 @@
-# Welcome to Cancer Genomics
-### The University of Sydney
-###25th - 27th July 2017
+# Welcome to Cancer Genomics Workshop
 <br>
 
 The Cancer Genomics workshop aims to provide an introduction to cancer genomics analytical pipelines for single nucleotide variations (SNV), copy number variations (CNV) and structural variations (SV).
