@@ -63,9 +63,9 @@ pages:
     - Single Nucleotide Variant Calling and Annotation: snv/handout/handout.md
     - Copy Number Variation: cnv/handout/handout.md
     - Structural Variant Analysis: sv/handout/handout.md
-      #- Somatic Mutations:
-      # - Assessing somatic mutational signatures: modules/cancer-module-somatic/01_signatures.md
-      #  - Cohort analysis for the identification of driver genes: modules/cancer-module-somatic/02_intogen.md
+    - Somatic Mutations:
+       - Assessing somatic mutational signatures: somatic/handout/signatures.md
+       - Cohort analysis for the identification of driver genes: somatic/handout/intogen.md
     - Variant Visualisation: viz/handout/handout.md
 
 - License: license.md
