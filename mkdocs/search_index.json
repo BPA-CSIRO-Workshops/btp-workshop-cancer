@@ -2,23 +2,13 @@
     "docs": [
         {
             "location": "/",
-            "text": "Welcome to Cancer Genomics\n\u00b6\n\n\nThe University of Sydney\n\u00b6\n\n\n25\nth\n - 27\nth\n July 2017\n\u00b6\n\n\n\n\nThe Cancer Genomics workshop aims to provide an introduction to cancer genomics analytical pipelines for single nucleotide variations (SNV), copy number variations (CNV) and structural variations (SV).\n\n\nWorkshop Content\n\u00b6\n\n\nBy the end of the course participants will be able to:\n\n\u2022 Ability to perform NGS alignment and manipulate the output,\n\n\u2022 Consider and plan experimental design, \n\n\u2022 Be able to identify and generate variants (SNV, CNV, SV, Indels), \n\n\u2022 Interpret variants with potential clinical interest,\n\n\u2022 Be able to visualise and present data\n\n\nThis workshop will be delivered using a mixture of lectures, hands-on practical sessions, and open discussions.\n\n\nAcknowledgements\n\u00b6\n\n\nThis workshop was developed by Bioplatforms Australia, in partnership with CSIRO, and with support from the European Bioinformatics Institute (EBI), a member of the European Molecular Biology Laboratory (EMBL) in the UK. The workshop content has been maintained and updated by a network of dedicated [bioinformatics trainers] (\nhttp://www.bioplatforms.com/bioinformatics-training/\n) from around Australia.\n\n\nThe Bioinformatics Training Platform was developed in collaboration with the Monash Bioinformatics Platform and this workshop has been hosted on Interset infrastructure.\n\n\nThis workshop is possible thanks to funding support from the NSW Office of Health and Medical Research and the Commonwealth Government National Collaborative Research Infrastructure Strategy (NCRIS).",
+            "text": "Welcome to Cancer Genomics Workshop\n\u00b6\n\n\n\n\nThe Cancer Genomics workshop aims to provide an introduction to cancer genomics analytical pipelines for single nucleotide variations (SNV), copy number variations (CNV) and structural variations (SV).\n\n\nWorkshop Content\n\u00b6\n\n\nBy the end of the course participants will be able to:\n\n\u2022 Ability to perform NGS alignment and manipulate the output,\n\n\u2022 Consider and plan experimental design, \n\n\u2022 Be able to identify and generate variants (SNV, CNV, SV, Indels), \n\n\u2022 Interpret variants with potential clinical interest,\n\n\u2022 Be able to visualise and present data\n\n\nThis workshop will be delivered using a mixture of lectures, hands-on practical sessions, and open discussions.\n\n\nAcknowledgements\n\u00b6\n\n\nThis workshop was developed by Bioplatforms Australia, in partnership with CSIRO, and with support from the European Bioinformatics Institute (EBI), a member of the European Molecular Biology Laboratory (EMBL) in the UK. The workshop content has been maintained and updated by a network of dedicated [bioinformatics trainers] (\nhttp://www.bioplatforms.com/bioinformatics-training/\n) from around Australia.\n\n\nThe Bioinformatics Training Platform was developed in collaboration with the Monash Bioinformatics Platform and this workshop has been hosted on Interset infrastructure.\n\n\nThis workshop is possible thanks to funding support from the NSW Office of Health and Medical Research and the Commonwealth Government National Collaborative Research Infrastructure Strategy (NCRIS).",
             "title": "Home"
         },
         {
-            "location": "/#welcome-to-cancer-genomics",
-            "text": "",
-            "title": "Welcome to Cancer Genomics"
-        },
-        {
-            "location": "/#the-university-of-sydney",
-            "text": "",
-            "title": "The University of Sydney"
-        },
-        {
-            "location": "/#25th-27th-july-2017",
+            "location": "/#welcome-to-cancer-genomics-workshop",
             "text": "The Cancer Genomics workshop aims to provide an introduction to cancer genomics analytical pipelines for single nucleotide variations (SNV), copy number variations (CNV) and structural variations (SV).",
-            "title": "25th - 27th July 2017"
+            "title": "Welcome to Cancer Genomics Workshop"
         },
         {
             "location": "/#workshop-content",
