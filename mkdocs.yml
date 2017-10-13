@@ -57,7 +57,7 @@ pages:
 - Workshop Information: preamble.md
 
 - Hands-on Modules:
-    #- Introduction to Command Line: modules/cancer-module-cli/commandline.md
+    - Introduction to Command Line: cli/handout/handout.md
     - Quality Control: qc/handout/handout.md
     - Read Alignment: alignment/handout/handout.md
     - Single Nucleotide Variant Calling and Annotation: snv/handout/handout.md
