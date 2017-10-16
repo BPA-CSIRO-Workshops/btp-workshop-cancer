@@ -1,4 +1,4 @@
-# btp-workshop-cancer
+# BTP Cancer Genomics Workshop
 Bioinformatics Training Platform (BTP) Workshop: Cancer Genomics
 
   * Topics
