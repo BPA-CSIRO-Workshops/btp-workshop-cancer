@@ -3,7 +3,26 @@ THIS IS A DRAFT DOCUMENT - Updated on the 21/12/2017
 This is a brief description of how to organise and run the Cancer Genomics Workshop including tips on how to organise the days, interactive activities and sections that can cause issues. This is not an exhaustive list of tips for organising the Cancer Genomics Workshops and the ideal way to run this workshop will depend on the attendee experience, expectations and trainers preference. 
 
 #Background 
-The Cancer Genomics Workshop was developed as part of an ongoing collaboration with EMBL-EBI. 8 Australia trainers attended an EMBL-EBI Cancer Genomics Workshop, followed by a 2-day train-the-trainer workshop. The Australian cohort of trainers used content, themes and concepts from the EMBL-EBI workshop and modified them to suit Australian audiences. The team also utilised material and infrastructure developed from previous Bioplatforms-CSIRO workshops. This workshop consists of the following modules:
+The Cancer Genomics Workshop was developed as part of an ongoing collaboration with EMBL-EBI. 8 Australia trainers attended an EMBL-EBI Cancer Genomics Workshop, followed by a 2-day train-the-trainer workshop. The Australian cohort of trainers used content, themes and concepts from the EMBL-EBI workshop and modified them to suit Australian audiences. The team also utilised material and infrastructure developed from previous Bioplatforms-CSIRO workshops. 
+
+**Aims**
+The Cancer Genomics workshop aims to provide an introduction to cancer genomics analytical pipelines for single nucleotide variations (SNV), copy number variations (CNV) and structural variations (SV).
+
+**Learning Objectives**
+By the end of the course participants will be able to:
+
+-Ability to perform NGS alignment and manipulate the output
+-Consider and plan experimental design
+-Be able to identify and generate variants (SNV, CNV, SV, Indels)
+-Interpret variants with potential clinical interest
+-Be able to visualise and present data
+
+**Recommended Participants**
+This workshop is designed for bench scientists, PhD students and early career postdoctoral researchers who are planning to work with next-generation sequencing data for small variant detection. No prior bioinformatics experience required but familiarity will be useful.
+This is a more advanced course than the Introduction to NGS
+
+**Modules**
+This workshop consists of the following modules:
 
 Introduction to Command-line 
 Fundamentals in NGS (presentation)
